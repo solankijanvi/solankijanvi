@@ -9,7 +9,7 @@
 
 
   
-# Hi, I'm Janvi Solanki 👋
+
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=solankijanvi&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=solankijanvi&layout=compact&theme=radical)
