@@ -8,7 +8,7 @@
 - 📫 How to reach me: janvisolanki691@gmail.com
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-profile-blue)](https://www.linkedin.com/in/janvisolanki)
+    [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-%230077B5)](https://www.linkedin.com/in/janvisolanki)
   
 
 
