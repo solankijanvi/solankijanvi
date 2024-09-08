@@ -21,6 +21,7 @@
 
 ## 💡 Skills 
 
+- **C++**
 - **Python**: 🐍
 - **JavaScript**: 🌐
 - **HTML/CSS**: 🌟
