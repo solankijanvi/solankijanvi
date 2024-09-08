@@ -18,7 +18,7 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=solankijanvi&layout=compact&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=solankijanvi&theme=radical)
 
-## 🔧 Skills 
+## 💡 Skills 
 
 - **Python**: 🐍
 - **JavaScript**: 🌐
