@@ -19,6 +19,11 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=solankijanvi&theme=radical)
 
 ## Skills
-- C++, Python, SQL
-- Web Development: HTML, CSS, JavaScript, Flask, React
-- Hardware: Arduino, MATLAB, ESP32
+
+- **Python**: 🐍
+- **JavaScript**: 🌐
+- **HTML/CSS**: 🌟
+- **SQL**: 📊
+- **Machine Learning**: 🤖
+- **React**: ⚛️
+- **Flask**: 🐍🔧
