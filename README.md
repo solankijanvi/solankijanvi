@@ -8,3 +8,14 @@
 - 📫 How to reach me: janvisolanki691@gmail.com
 
 
+  
+# Hi, I'm Janvi Solanki 👋
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=solankijanvi&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=solankijanvi&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=solankijanvi&theme=radical)
+
+## Skills
+- C++, Python, SQL
+- Web Development: HTML, CSS, JavaScript, Flask, React
+- Hardware: Arduino, MATLAB, ESP32
