@@ -16,14 +16,16 @@
   
 ---
 
-# Coding Profiles 💻
+## 💻 Coding Profiles 
 
 <a href="https://www.hackerrank.com/janvi_solanki" target="_blank">
-  <img src="https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=HackerRank&logoColor=white" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Hackerrank_meaningful_logo.svg" width="30" height="30">
 </a>
 
+
+
 <a href="https://leetcode.com/Janvi_Solanki" target="_blank">
-  <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=white" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="30" height="30">
 </a>
 
 ---
