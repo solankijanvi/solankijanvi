@@ -42,5 +42,4 @@
 - **Flask**: 🐍🔧
 
 
-![Profile views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/solankijanvi/&title=Profile%20Views)
 
