@@ -20,7 +20,7 @@
 
 ## 📈 Github Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=solankijanvi&show_icons=true&hide_title=true&count_private=true)
+
 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=solankijanvi&layout=compact&theme=radical)
