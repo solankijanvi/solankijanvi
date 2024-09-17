@@ -16,6 +16,7 @@
   
 ### Portfolio
 
+[![Portfolio Badge](https://img.shields.io/badge/-Check%20out%20my%20Portfolio-ff69b4?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://solankijanvi.github.io/Portfolio/)
 🌐 [Check out my portfolio here]([https://your-portfolio-link.com](https://solankijanvi.github.io/Portfolio/))
 
 
