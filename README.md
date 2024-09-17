@@ -81,9 +81,7 @@ Connect with me on coding platforms where I solve challenges and improve my prob
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="80" height="80" style="border-radius:50%;">
   </a>
   
-  <a href="https://www.codechef.com/users/m2100680310053">
-    <img src="https://i.ibb.co/0jHpjkT/codechef-logo.png" alt="CodeChef" width="80" height="80" style="border-radius:50%;">
-  </a>
+ 
 </div>
 
 
