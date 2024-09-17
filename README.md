@@ -82,7 +82,7 @@ Connect with me on coding platforms where I solve challenges and improve my prob
   </a>
   
   <a href="https://www.codechef.com/users/m2100680310053">
-    <img src="https://cdn.codechef.com/sites/all/themes/abessive/logo.png" alt="CodeChef" width="80" height="80" style="border-radius:50%;">
+    <img src="https://i.ibb.co/0jHpjkT/codechef-logo.png" alt="CodeChef" width="80" height="80" style="border-radius:50%;">
   </a>
 </div>
 
