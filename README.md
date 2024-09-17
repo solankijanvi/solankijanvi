@@ -14,7 +14,9 @@
   <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white" />
 </a>
   
+### Portfolio
 
+🌐 [Check out my portfolio here]([https://your-portfolio-link.com](https://solankijanvi.github.io/Portfolio/))
 
 
 
