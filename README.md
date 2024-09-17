@@ -16,8 +16,13 @@
   
 ### Portfolio
 
-[![Portfolio Badge](https://img.shields.io/badge/-Check%20out%20my%20Portfolio-ff69b4?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://solankijanvi.github.io/Portfolio/)
-🌐 [Check out my portfolio here]([https://your-portfolio-link.com](https://solankijanvi.github.io/Portfolio/))
+
+<div align="center">
+  <a href="[https://your-portfolio-link.com](https://solankijanvi.github.io/Portfolio/)">
+    <img src="https://img.shields.io/badge/View%20My%20Portfolio-%23FF69B4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Button">
+  </a>
+</div>
+
 
 
 
@@ -34,21 +39,32 @@
 
 
 
-## 💡 Skills 
 
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c)
+## 🛠 Tech Stack
+
+- **Languages:**
+
+  
+  ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c)
   ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
   ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
   ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-- **C++**: 🖥️
-- **Python**: 🐍
-- **JavaScript**: 🌐
-- **HTML/CSS**: 🌟
-- **SQL**: 📊
-- **Machine Learning**: 🤖
-- **React**: ⚛️
-- **Flask**: 🐍🔧
+
+- **Frameworks & Libraries:**
+
+  
+  ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask)
+  ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
+
+- **Tools & Platforms:**
+
+  
+  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
+  ![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)
+  ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white)
+
+
 
 
 
