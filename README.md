@@ -72,15 +72,17 @@
 
 Connect with me on coding platforms where I solve challenges and improve my problem-solving skills.
 
-<div align="center">
+<div >
   <a href="https://www.hackerrank.com/janvi_solanki">
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="HackerRank" width="80" height="80" style="border-radius:50%;">
   </a>
+    
   <a href="https://leetcode.com/Janvi_Solanki">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="80" height="80" style="border-radius:50%;">
   </a>
+  
   <a href="https://www.codechef.com/users/m2100680310053">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/CodeChef_Logo.png/768px-CodeChef_Logo.png" alt="CodeChef" width="80" height="80" style="border-radius:50%;">
+    <img src="https://cdn.codechef.com/sites/all/themes/abessive/logo.png" alt="CodeChef" width="80" height="80" style="border-radius:50%;">
   </a>
 </div>
 
