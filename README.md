@@ -76,7 +76,9 @@ Connect with me on coding platforms where I solve challenges and improve my prob
   <a href="https://www.hackerrank.com/janvi_solanki">
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="HackerRank" width="80" height="80" style="border-radius:50%;">
   </a>
-    
+</div>
+
+<div >  
   <a href="https://leetcode.com/Janvi_Solanki">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="80" height="80" style="border-radius:50%;">
   </a>
