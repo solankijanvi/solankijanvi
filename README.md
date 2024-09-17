@@ -17,12 +17,13 @@
 ### Portfolio
 
 
+🎨 **Discover my work**: Here’s a quick look at my personal projects that combine creativity and functionality. Click the button below to explore!
+
 <div align="center">
-  <a href="[https://your-portfolio-link.com](https://solankijanvi.github.io/Portfolio/)">
-    <img src="https://img.shields.io/badge/View%20My%20Portfolio-%23FF69B4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Button">
+  <a href="https://solankijanvi.github.io/Portfolio/">
+    <img src="https://img.shields.io/static/v1?label=Portfolio&message=Explore%20Now&color=brightgreen&style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Button">
   </a>
 </div>
-
 
 
 
