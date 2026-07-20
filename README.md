@@ -23,32 +23,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-### 📝 Task Management API
-A production-style REST API built using FastAPI.
-
-**Features**
-- JWT Authentication
-- User Registration & Login
-- PostgreSQL
-- SQLAlchemy ORM
-- CRUD Operations
-- Protected Routes
-- Pagination
-- Filtering & Search
-
-**Tech Stack**
-FastAPI • PostgreSQL • SQLAlchemy • JWT • Pydantic • Git
-
----
-
-### 🤖 AI Projects (Coming Soon)
-
-- Resume Analyzer using LLMs
-- PDF Chatbot with RAG
-- AI Interview Assistant
-- Document Question Answering System
 
 ---
 
