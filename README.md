@@ -1,90 +1,129 @@
-# Hi there, I am Janvi Solanki! 👋
-
-
+# Hi there, I'm Janvi Solanki 👋
 
 ## 🚀 About Me
 
-- 🎓 Pursuing  BTech at Meerut Institute of Engineering and Technology.
-- 💻 Passionate about software development, web development and machine learning.
+🎓 B.Tech Student at Meerut Institute of Engineering and Technology (MIET)
 
-- 📫 How to reach me: janvisolanki691@gmail.com
+💻 Aspiring AI Engineer passionate about Generative AI, Backend Development, and Machine Learning.
 
+🌱 Currently learning:
+- FastAPI & Backend Development
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- LangChain & Hugging Face
+- Vector Databases
 
-    <a href="https://www.linkedin.com/in/janvisolanki" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white" />
-</a>
-  
-### Portfolio
+🎯 Goal: Build real-world AI applications that solve practical problems.
 
+📫 **Email:** janvisolanki691@gmail.com
 
-🎨 **Discover my work**: Here’s a quick look at my personal projects that combine creativity and functionality. Click the button below to explore!
+💼 **LinkedIn:** https://www.linkedin.com/in/janvisolanki
 
+🌐 **Portfolio:** https://solankijanvi.github.io/Portfolio/
 
-<div >
-  <a href="https://solankijanvi.github.io/Portfolio/">
-    <img src="https://img.shields.io/badge/View%20My%20Portfolio-%23E4405F?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Button">
-  </a>
-</div>
+---
 
+## 🚀 Featured Projects
 
+### 📝 Task Management API
+A production-style REST API built using FastAPI.
 
-## 📈 Github Stats
+**Features**
+- JWT Authentication
+- User Registration & Login
+- PostgreSQL
+- SQLAlchemy ORM
+- CRUD Operations
+- Protected Routes
+- Pagination
+- Filtering & Search
 
+**Tech Stack**
+FastAPI • PostgreSQL • SQLAlchemy • JWT • Pydantic • Git
 
+---
 
+### 🤖 AI Projects (Coming Soon)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=solankijanvi&layout=compact&theme=radical)
+- Resume Analyzer using LLMs
+- PDF Chatbot with RAG
+- AI Interview Assistant
+- Document Question Answering System
 
-
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=solankijanvi&theme=radical)
-
-
-
+---
 
 ## 🛠 Tech Stack
 
-- **Languages:**
+### Languages
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-  ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c)
-  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-  ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-  ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+---
 
-- **Frameworks & Libraries:**
+### Backend
 
-  
-  ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask)
-  ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
 
-- **Tools & Platforms:**
+---
 
-  
-  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
-  ![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)
-  ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white)
+### Database
 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
+---
 
-## 👨‍💻 **Coding Profiles**
+### AI & ML (Learning)
 
-Connect with me on coding platforms where I solve challenges and improve my problem-solving skills.
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
-<div >
-  <a href="https://www.hackerrank.com/janvi_solanki">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="HackerRank" width="80" height="80" style="border-radius:50%;">
-  </a>
-</div>
+---
 
-<div >  
-  <a href="https://leetcode.com/Janvi_Solanki">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="80" height="80" style="border-radius:50%;">
-  </a>
-  
- 
-</div>
+### Tools
 
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-![Profile Views](https://komarev.com/ghpvc/?username=solankijanvi)
+---
+
+## 📈 GitHub Stats
+
+![Janvi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=solankijanvi&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=solankijanvi&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=solankijanvi&theme=radical)
+
+---
+
+## 👩‍💻 Coding Profiles
+
+💛 HackerRank: https://www.hackerrank.com/janvi_solanki
+
+🧡 LeetCode: https://leetcode.com/Janvi_Solanki
+
+---
+
+## 🤝 Connect with Me
+
+<a href="https://www.linkedin.com/in/janvisolanki">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="mailto:janvisolanki691@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+---
+
+![](https://komarev.com/ghpvc/?username=solankijanvi&style=for-the-badge)
