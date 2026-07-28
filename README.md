@@ -25,10 +25,6 @@ Building scalable backend applications with Python while exploring AI, Generativ
 - 🎓 B.Tech Graduate
 - 💼 Graduate Engineer at **HCLTech**
 - 🐍 Passionate about **Python Backend Development**
-- 🚀 Building scalable APIs using **FastAPI**
-- 🗄 Working with **PostgreSQL & SQLAlchemy**
-- 🐳 Learning **Docker & Cloud Deployment**
-- 🤖 Exploring **Generative AI, LLMs & Retrieval-Augmented Generation (RAG)**
 - 🎯 Aspiring AI & Backend Engineer
 
 ---
