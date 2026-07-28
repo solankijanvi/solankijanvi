@@ -1,99 +1,71 @@
 <h1 align="center">Hi 👋, I'm Janvi Solanki</h1>
 
-<h3 align="center">
-Backend Developer • FastAPI Enthusiast • AI Learner
-</h3>
-
 <p align="center">
-Building scalable backend applications with Python and exploring the world of AI & Generative AI.
+Building scalable backend applications with Python while exploring AI, Generative AI, and modern backend technologies.
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=solankijanvi&label=Profile%20Views&color=0e75b6&style=flat" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Backend+Developer;FastAPI+%7C+PostgreSQL+%7C+Docker;Learning+Generative+AI+%26+LLMs;Always+Building+Something+New"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=solankijanvi&label=Profile+Views&color=0e75b6&style=flat"/>
+
+<img src="https://img.shields.io/github/followers/solankijanvi?style=social"/>
+
 </p>
 
 ---
 
-## 👩‍💻 About Me
+# 👩‍💻 About Me
 
 - 🎓 B.Tech Graduate
-- 💼 Graduate Engineer at HCLTech
-- 🐍 Passionate about Python & Backend Development
-- ⚡ Currently building projects with **FastAPI, PostgreSQL & Docker**
-- 🤖 Exploring **Generative AI, LLMs and RAG**
-- 🌱 Learning **System Design & Cloud**
-- 🎯 Goal: Become an AI/Backend Engineer
+- 💼 Graduate Engineer at **HCLTech**
+- 🐍 Passionate about **Python Backend Development**
+- 🚀 Building scalable APIs using **FastAPI**
+- 🗄 Working with **PostgreSQL & SQLAlchemy**
+- 🐳 Learning **Docker & Cloud Deployment**
+- 🤖 Exploring **Generative AI, LLMs & Retrieval-Augmented Generation (RAG)**
+- 🎯 Aspiring AI & Backend Engineer
 
 ---
 
-## 🚀 Tech Stack
+# 🚀 Tech Stack
 
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,html,css,js,sql" />
+<img src="https://skillicons.dev/icons?i=python,html,css,js,sql"/>
 </p>
+
 
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=fastapi,flask" />
+<img src="https://skillicons.dev/icons?i=fastapi,flask"/>
 </p>
+
 
 ### Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=postgresql,sqlite" />
+<img src="https://skillicons.dev/icons?i=postgresql,sqlite"/>
 </p>
 
-### Tools
+
+### Tools & Technologies
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,pycharm" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,pycharm"/>
 </p>
+
 
 ---
 
-
-## 📊 GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=solankijanvi&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=solankijanvi&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=solankijanvi&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=solankijanvi&theme=algolia&margin-w=10&margin-h=10"/>
-
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=solankijanvi&theme=tokyo-night"/>
-
-</p>
-
----
-
-## 🌐 Connect with Me
+# 🌐 Connect With Me
 
 <p align="left">
 
@@ -101,22 +73,24 @@ Building scalable backend applications with Python and exploring the world of AI
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
+
 <a href="mailto:janvisolanki691@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+
+<a href="https://github.com/solankijanvi">
+<img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
 </p>
 
 ---
 
-## 💡 Quote
-
-> *"Consistency beats motivation. Every project is one step closer to mastery."*
-
----
-
 <p align="center">
 
-⭐ Thanks for visiting my profile!
+### ⭐ Thanks for visiting my profile!
+
+*"Keep learning. Keep building. Keep improving."*
 
 </p>
